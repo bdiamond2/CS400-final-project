@@ -1,0 +1,38 @@
+1|Quarkslurp Alpha|The innermost planet orbiting in the Quarkslurp system, this tiny desert world is home to one of the Musk Corporation's most profitable lithium mines. Tidally locked to its host star, one half of Quarkslurp Alpha is a hellish desert while the other half is in permanent, frigid darkness. The workers of the mine are mostly prisoners who rarely survive more than a year or two in the brutal conditions, often dying from exhaustion, injury, or (as a form of capital punishment) being sent up to the surface to roast alive in sun.
+2|Quarkslurp Beta|A large, rocky planet situated neatly in the middle of the Quarkslurp "Goldilocks zone," Quarkslurp Beta serves as a comfortable retreat for the Musk executives overseeing the local mining operation on Alpha.
+3|Quarkslurp Gamma|A snowy planet with a hostile climate, Quarkslurp Gamma is of little interest to the Musk Corporation or the Galactic Empire. Uninhabited by humans, the indigenous fauna go about their lives largely undisturbed by the colonizers nearby.
+4|Quarkslurp Delta|Orbiting the colossal gas giant Quarkslurp Delta, the Quarkslurp Comms Relay is a high-powered communications outpost capable of transmitting messages to a number of distant star systems with minimal signal loss.
+5|Quarkslurp Omega|Very little light from the center of the Quarkslurp system reaches the surface of this icy, desolate dwarf planet.
+6|Pluto|The crown jewel of the Kuiper Belt, this tiny ball of rock and ice is perhaps best known for being downgraded from planet to dwarf planet in 2006.
+7|Titan|Orbiting Saturn, Titan is the only moon in the Solar System with a dense atmosphere. If you need to cool off, take a dip in one of the lakes of liquid hydrocarbons.
+8|Europa|A now-abandoned science experiment, Genesis Station on Jupiter's moon Europa was the site of humanity's first discovery of extraterrestrial microbes in the massive subsurface ocean.
+9|Mars|Now mostly uninhabitable due to the Musk Corporation's botched terraforming campaign in the early 22nd century, the Red Planet once hosted a number of small human settlements mostly inhabited by scientists and military officials.
+10|Earth|Although climate change was eventually halted by solar deflection, carbon sequestration, and breakthroughs in nuclear fusion technology, it severely scarred the cradle of humanity when global temperatures peaked at 4.1°C above pre-industrial levels in the mid 21st century.
+11|Moon|The site of another Musk mining operation, the Moon continues to be an important source of Helium-3 for fueling nuclear fusion reactors back on Earth.
+12|Ceres|Both a dwarf planet and an asteroid, Ceres alone accounts for roughly one third of the total mass of the asteroid belt. It is also the only asteroid massive enough to maintain a spheroid shape through its gravity. There's not much to do here other than to jump around in gravity 3% that of Earth's.
+13|Venus|High above Venus's punishing atmosphere of sulfuric acid and a surface hot enough to melt lead, the unfinished Aphrodite Station was one of NASA's final interplanetary missions before its dissolution in 2052.
+14|Grauman's Center|The time it takes to get from one star to another star is...it's, you need to travel at the speed of light. And us humans can't even fathom the concept of that kind of time because it's really really really really really really really really fun, to think about taking a speed of light ride.
+15|Undiscovered Worlds|Come here and look through your telescope and see the Little Dipster, or see the Big Dipster. Every star has a sister star, uh, a little bit like two eyeballs.
+16|Sector 8|When I was a child there was thought to be 9 planets. But there are now...90  planets.
+17|Tittleman's Crest|You can kinda picture it's a little like a leaf or...it's not a bowl!
+18|Mercurus|Sweet berry wine!
+19|Water Planet|Space space space space space space space...
+20|Dorris Pringle-Brule|They didn't have a name for it, it's too far away. So we named it after Dorris.
+21|Tube|If you could put the universe into this tube, you'd end up with a very long tube. Probably extending twice the size of the universe.
+22|Teslaton|Originally conceived as an entire planet devoted to training Tesla's Autopilot algorithm, Teslaton is a strange world populated almost entirely by self-driving Tesla cars. It's not exactly clear how they've organized themselves, but the cars appear to communicate with each other and have even held several elections.
+23|New Pretoria|Home of the Musk Corporation Galactic Headquarters and most of Elon I's direct descendants, New Pretoria is the de facto seat of power for the Musk quasi-government.
+24|Freedomland|A laissez faire hyper-capitalist mecca, Freedomland has perhaps the most lenient legal code of any planet in the Galactic Empire. There used to be a law against murder, but it was recently struck down by Freedomland's Supreme Court for violating free speech.
+25|Elon I Celestial Monument|This towering 500 foot statue of Elon I floats peacefully at the L1 Lagrange point between New Pretoria and its host star. Composed entirely of solid platinum mined from asteroids, it is quite likely the most expensive manmade object in existence.
+26|Rogania|Rogania's national anthem is the UFC Theme Song and its official currency is vitamin supplements.
+27|Hadronius|Although the Musk Corporation denies any involvement with the goings-on at this mysterious planet, a blockade of Musk ships prevents anyone from landing on the surface. Frequent detection of gamma radiation leads many to believe that Hadronius is an antimatter research site.
+28|Beefworld|A world made entirely out of beef. We're not exactly sure where it came from, but one thing we are sure about is that it's all beef, beef, beef.
+29|Ohio|Ohio but it's a planet.
+30|Musk Interstellar Spaceport|Originally a SpaceX vehicle assembly megacomplex, the SpaceX Interstellar Spaceport hosts more warp gates than all other star systems in the galaxy combined.
+31|Tatooine|A backwoods desert wasteland with a weirdly high number of protagonists.
+32|Hoth|Watch out for Wampas. The wild Tauntauns can be pretty mean too.
+33|Alderaan|404 PLANET NOT FOUND
+34|Dagobah|A swampy forest world populated by slimy gross creatures and a couple of antisocial wizards.
+35|Bespin|Home to the illustrious Cloud City, this place is pretty cool as long as your father isn't a genocidal maniac.
+36|Kashyyyk|BEST BATTLEFRONT MAP EVER
+37|Coruscant|Boasting some of the highest rent in the galaxy, at least 2-3 roommates are recommended.
+38|Mustafar|Mustafar? More like you must-a stay far away from this lava drenched nightmare of a planet.
